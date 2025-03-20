@@ -1,0 +1,36 @@
+
+Primeiro Resultado:
+                     0
+Município             
+ABDON BATISTA      0.0
+ABELARDO LUZ       0.0
+ALFREDO WAGNER     0.0
+ALTO BELA VISTA    0.0
+ANCHIETA           0.0
+...                ...
+ZORTÉA             0.0
+ÁGUA DOCE          0.0
+ÁGUAS DE CHAPECÓ -10.0
+ÁGUAS FRIAS        0.0
+ÁGUAS MORNAS       0.0
+
+[229 rows x 1 columns]
+
+
+Segundo Resultado:
+                     0
+Município             
+ABDON BATISTA      0.0
+ABELARDO LUZ       0.0
+ALFREDO WAGNER     0.0
+ALTO BELA VISTA    0.0
+ANCHIETA           0.0
+...                ...
+ZORTÉA             0.0
+ÁGUA DOCE          0.0
+ÁGUAS DE CHAPECÓ  11.0
+ÁGUAS FRIAS        0.0
+ÁGUAS MORNAS       0.0
+
+[229 rows x 1 columns]
+
